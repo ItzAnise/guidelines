@@ -3,4 +3,4 @@ These are guidelines for Fivnex development. These documents are to show how thi
 
 [Versioning Guidelines](./versioning.md) \
 [Picking a License](./pick-license.md) \
-[Making Licenses](./license.md)
+[Making Licenses](./licensing.md)
